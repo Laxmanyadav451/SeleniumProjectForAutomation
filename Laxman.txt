@@ -1,1 +1,1 @@
-Seleenium Automation and pushing code to github
+Selenium Automation and pushing code to github
